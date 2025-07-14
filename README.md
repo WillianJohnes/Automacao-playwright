@@ -55,7 +55,7 @@ npx playwright test --debug
 Durante a execução, o Playwright gera **prints de tela** automaticamente, disponíveis na pasta:
 
 ```
-playwright-report/ ou /screenshots/
+/screenshots/
 ```
 
 ---
@@ -73,10 +73,10 @@ screenshots/                # Evidências geradas (prints)
 
 ## 👨‍💻 Sobre mim
 
-Me chamo **Willian Johnes Passos Leal**, sou QA em formação e estou desenvolvendo este projeto como parte prática de um curso de automação com Playwright.
+Me chamo **Willian Johnes Passos Leal**, sou QA em formação e estou desenvolvendo este projeto como parte prática de um curso de automação de testes com Playwright.
 
 - GitHub: [github.com/WillianJohnes](https://github.com/WillianJohnes)  
-- E-mail: willianpassos2014@outlook.com  
+- E-mail: willianpassos2014@gmail.com  
 
 ---
 
